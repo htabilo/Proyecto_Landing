@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;1,100;1,400&family=Open+Sans:ital,wght@0,300;0,400;0,700;1,300&family=Raleway&family=Roboto+Mono&family=Roboto:ital,wght@0,100;0,300;1,300&family=Work+Sans:wght@100;200;300;600;800&display=swap');
+body{
+    background-color: white
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding: auto;
+    color: blue;
+}
+
+.container{
+    background-color: brown;
+}
+   /* Archivo Estilos.css */
+   
+   /* Se aplica directamente al elemento <body> */
+    
+   /* Se aplica directamente a todos los elementos de tipo <p> */
+   p {
+    color: red;
+   }
+   
+   h3{
+     color: blue;
+     
+   }
+
+   h1{
+    font-family: 'Lato', sans-serif;
+   }
+   img{
+    height: 160px;
+    font-weight: 80px;
+   }
+   
+
+   .banner{
+background-color: aquamarine;
+height: 300px;
+padding: 40px;
+background-image: url(https://media-front.elmostrador.cl/2020/02/110788389_gettyimages-1140907967.jpg);
+background-size: cover;
+
+   }
+
